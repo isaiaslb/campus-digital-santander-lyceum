@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const environment = {\n  production: true,\n  url_dol: 'https://www.mycampusdigital.com/pt-br'\n};","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

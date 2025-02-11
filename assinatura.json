@@ -1,0 +1,11 @@
+{
+    "android": {
+        "release": {
+            "keystore": "playstore/playstore.keystore",
+            "storePassword": "bhimA123",
+            "alias": "aonline_android",
+            "password" : "bhimA123",
+            "keystoreType": ""
+        }
+    }
+}
